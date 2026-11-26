@@ -1,0 +1,12 @@
+{
+  "appId": "com.xauconsole.app",
+  "appName": "XAU Console",
+  "webDir": "www",
+  "backgroundColor": "#0b0e14",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": false
+  }
+}
